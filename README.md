@@ -1,4 +1,4 @@
-﻿# Building AI Project
+﻿#  Building AI Project
  
 ## Your idea in a nutshell
 An AI-driven enhancement for VIBRAAAX BEATS, a platform tailored for dark, emotional, and cinematic trap music. The system automatically analyzes musical beats (tempo, genre, mood, key) to accurately tag them, detect copyright issues, and recommend the perfect beats to artists and content creators based on their sonic preferences.
